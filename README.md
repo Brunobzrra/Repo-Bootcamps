@@ -1,3 +1,4 @@
 # Bootcamps
 ## Repositório utilizado para a documentação de Bootcamps feitos 
-- Bootcamp Inter Front-End Developer
+- BootCamp Inter Front-End Developer
+- BootCamp Decola Tech #2
