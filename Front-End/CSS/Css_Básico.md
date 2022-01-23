@@ -38,6 +38,16 @@
 # Estilização de listas
 * Para alterar o marcador usamos o list-style-type
 * Para utilizar imagens como marcador, utilizamos o list-style-image
+* É possível alterar os marcadores de acordo com a função da lista:  
+Caso seja uma lista ordenada, é possivel alterar o marcador (numeral, algarismo romano...)
+Caso seja uma lista não ordenada, é possível alterar o estilo do marcador (triangulo, etc...)
 
 # Dimensão e alinhamento
 * Largura e Altura: Width e Height
+* Max-width: utilizará toda a largura dispoínvel na tela no momento
+* Margin: auto; - Vai permitir que as margens se alinhem automaticamente e que o conteúdo fique centralizado
+* ~~~css
+    body{
+        margin: auto; 
+    }
+~~~
