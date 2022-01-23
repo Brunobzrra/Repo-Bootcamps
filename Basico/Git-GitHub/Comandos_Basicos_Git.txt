@@ -1,2 +1,0 @@
-- git init: Inicia um novo repositorio dentro da pasta em questão
-- git status: verifica status de arquivos dentro da pasta (staged, tracked ou untracked)
