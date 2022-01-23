@@ -9,6 +9,7 @@ body{
 }
 
 .face_photo{
+    margin-top: 15px;
     border-radius: 50%;
     border: 2px solid rgb(53, 51, 51);
 }
