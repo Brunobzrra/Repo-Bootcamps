@@ -3,6 +3,7 @@ var currentNumber = 0;
 var btAdd = document.getElementById("adicionar");
 var btDec = document.getElementById("subtrair");
 
+// Utilizei listeners para incrementar/decrementar os numeros
 
 btAdd.addEventListener("click", function(){
     currentNumber++;
@@ -14,6 +15,12 @@ btDec.addEventListener("click", function(){
         currentNumber--;
     }
 });
+
+/**
+ * Também utilizei os listeners para modificar as cores do botao,
+ * por meio da div do contador e manipulando o css 
+ *  */ 
+
 
 document.getElementById("counter").addEventListener("click", function(){
     currentNumberWrapper.innerHTML=currentNumber;
